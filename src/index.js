@@ -1,3 +1,1 @@
-const message = 'Hello World23232';
-
-console.log(message);
+import fs from 'node:fs';
